@@ -15,7 +15,7 @@ I have an interest to develop products that solve real life problems 👨‍💻
 [![Linkedin: nidhishmehra](https://img.shields.io/badge/-nidhishmehra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nidhishmehra/)](https://www.linkedin.com/in/nidhishmehra/)
 
 <br>
-<h1>
+
 ### <img src="https://media.giphy.com/media/5UDqt2tYLu2Qfhjngr/giphy.gif?cid=790b7611b7d757f9bf6934935b26c8df427acdf7a7eed285&rid=giphy.gif&ct=g" width="50"> Documentation...  
 
 ```javascript
@@ -36,7 +36,7 @@ const nidhish = {
             }
 }
 ```
-</h1>
+
 
 <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=ecf05e47osugj6ixu8jl3r9u5kbio8tb146hbu04ekygopll&rid=giphy.gif&ct=g" width="60"> <em>
 <b>Solutions to many of our modern problems can be found between curly brackets.</b>{" :) "} </em>
