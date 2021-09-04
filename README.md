@@ -3,7 +3,7 @@ Hello World! I'm Nidhish Mehra!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
 </h2>
 <img align='right' src="./profile.svg" width="230">
-<em><b>Solutions to many of our modern problems can be found between curly brackets.</b>{" :) "} </em>
+<em align='right' width="230"><b>Solutions to many of our modern problems can be found between curly brackets.</b>{" :) "} </em>
 <p>
 <em>
 <b>🎓</b> I am currently pursuing my Bachelor of Engineering in Information Technology
@@ -17,7 +17,7 @@ Hello World! I'm Nidhish Mehra!
 
 <br>
 
-### <img src="https://media.giphy.com/media/5UDqt2tYLu2Qfhjngr/giphy.gif?cid=790b7611b7d757f9bf6934935b26c8df427acdf7a7eed285&rid=giphy.gif&ct=g" width="50"> Documentation...  
+###Documentation...  
 
 ```javascript
 
@@ -37,8 +37,5 @@ const nidhish = {
             }
 }
 ```
-
-
-<img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=ecf05e47osugj6ixu8jl3r9u5kbio8tb146hbu04ekygopll&rid=giphy.gif&ct=g" width="60">
 
 ---
