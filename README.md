@@ -5,9 +5,9 @@ Hello World! I'm Nidhish Mehra!
 <img align='right' src="./profile.svg" width="230">
 <p>
 <em>
-I am currently pursuing my Bachelor of Engineering in Information Technology 🎓
+    I am currently pursuing my Bachelor of Engineering in Information Technology <h3>🎓</h3>
 </br>
-I have an interest to develop products that solve real life problems 👨‍💻
+I have an interest to develop products that solve real life problems <h3>👨‍💻 </h3>
 </em>
 </p>
 
