@@ -25,12 +25,11 @@ Hello World! I'm Nidhish Mehra!
 
 /*Overview of my technical skills in the form of a JS object*/
 const nidhish = {
-    /*Languages I use to communicate with machines*/
-    languages: [Javascript, Python, C],
-    /*Technologies I use to make my work better*/
-    technologies: [React, Redux, Node, MongoDb, Express, MySQL],
-    /*Tools I use to make my work easier*/
-    tools: ["Adobe Creative Suite", "Git", "AWS"],
+    
+    languages: [Javascript, Python, C],      /*Languages I use to communicate with machines*/
+    technologies: [React, Redux, Node, MongoDb, Express, MySQL],  /*Technologies I use to make my work better*/
+    tools: ["Adobe Creative Suite", "Git", "AWS"],  /*Tools I use to make my work easier*/
+    
     /*Not technical skills*/
     #info: {
                 creative: "I have an interest for Graphic designing and animation.",
