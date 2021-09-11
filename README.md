@@ -2,7 +2,7 @@
 Hello World! I'm Nidhish Mehra! 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
 </h2>
-<img align='right' src="./profile.svg" width="230">
+<img align='right' src="./profile.svg" width="200">
 <em><b>Solutions to many of our modern problems can be found between curly brackets.</b>{" :) "} </em>
 </br>
 </br>
