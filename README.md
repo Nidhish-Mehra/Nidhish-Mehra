@@ -39,4 +39,17 @@ const nidhish = {
 }
 ```
 
+
+## GitHub Status
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nidhish-Mehra&show_icons=true&hide_border=true&theme=onedark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhish-Mehra&layout=compact&theme=onedark" />
+</a>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Nidhish-Mehra)
+
 ---
