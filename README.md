@@ -14,8 +14,15 @@ Hello World! I'm Nidhish Mehra!
 </em>
 </p>
 
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"width="28" /> To get in touch with me...</h2>
 
-[![Linkedin: nidhishmehra](https://img.shields.io/badge/-nidhishmehra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nidhishmehra/)](https://www.linkedin.com/in/nidhishmehra/)
+<p align = "center">
+
+[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://nidhish-mehra.netlify.app/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nidhishmehra/)
+
+</p>
+
 
 <br>
 
@@ -40,15 +47,14 @@ const nidhish = {
 ```
 
 
-## GitHub Status
+## GitHub Stats
 
+<p align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nidhish-Mehra&show_icons=true&hide_border=true&theme=onedark" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
+
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhish-Mehra&layout=compact&theme=onedark" />
-</a>
+</p>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Nidhish-Mehra)
 
