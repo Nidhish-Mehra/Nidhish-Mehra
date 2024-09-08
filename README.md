@@ -8,9 +8,9 @@ Hello World! I'm Nidhish Mehra!
 </br>
 <p>
 <em>
-<b>🎓</b> I am currently pursuing my BE degree in Information Technology
+<b>🎓</b> I have completed my BE degree in Information Technology from Mumbai University.
 </br>
-<b>👨‍💻 </b>I have an interest in developing products that solve real life problems 
+<b>👨‍💻 </b>I have an interest in developing products that solve real life problems.
 </em>
 </p>
 
